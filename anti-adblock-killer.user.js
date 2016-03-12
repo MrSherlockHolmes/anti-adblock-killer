@@ -12,8 +12,8 @@
 // @contactURL https://reek.github.io/anti-adblock-killer/#contact
 // @supportURL https://github.com/reek/anti-adblock-killer/issues
 // @contributionURL https://github.com/reek/anti-adblock-killer#donate
-// @updateURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
-// @downloadURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
+// @updateURL https://raw.githubusercontent.com/MrSherlockHolmes/anti-adblock-killer/master/anti-adblock-killer.user.js
+// @downloadURL https://raw.githubusercontent.com/MrSherlockHolmes/anti-adblock-killer/master/anti-adblock-killer.user.js
 // @include http://*/*
 // @include https://*/*
 // @grant unsafeWindow
