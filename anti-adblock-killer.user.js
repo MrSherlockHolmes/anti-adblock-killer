@@ -4215,6 +4215,14 @@ Aak = {
         }
       }
     },
+    vtomske_ru : {
+      host : ['vtomske.ru'],
+      onStart : function () {
+      	Aak.addBaitElement('.bunners-wrapper-line .bunner');
+      	Aak.addBaitElement('.bunners-wrapper .bunner');
+      	Aak.addStyle(".bunners-wrapper-line .bunner, .bunners-wrapper .bunner { visibility: hidden; }");
+      }
+    },
     // --------------------------------------------------------------------------------------------
     // Generic
     // --------------------------------------------------------------------------------------------
